@@ -1,0 +1,6 @@
+﻿__pycache__/
+*.pyc
+venv/
+jarvis.db
+node_modules/
+dist/
