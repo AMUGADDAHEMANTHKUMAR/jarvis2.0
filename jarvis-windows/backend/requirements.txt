@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+websockets
+httpx
+edge-tts
+pywin32
+playwright
+sqlite-utils
+python-dotenv
